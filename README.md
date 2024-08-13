@@ -13,6 +13,8 @@
 # Software Delivery
 - [Software Delivery at Datadog](https://www.youtube.com/watch?v=H67uuwVO1tc) (October 2020)
 
+# Kubernetes
+- [Datadog on Kubernetes Autoscaling](https://www.youtube.com/watch?v=gvQvtJAw630) (February 2024)
 
 # Open source
 - [temporal-worker-controller](https://github.com/DataDog/temporal-worker-controller)
