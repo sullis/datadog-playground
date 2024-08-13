@@ -8,6 +8,7 @@
 - [Operating Cassandra in Kubernetes with Temporal at Datadog](https://www.youtube.com/watch?v=_vnXUOfKNQ0)
 - [Temporal at Datadog](https://www.youtube.com/watch?v=LxgkAoTSI8Q) - Jacob LeGrone
 - [Running Temporal as an Internal Service](https://www.youtube.com/watch?v=jbw702SBhp4) - Datadog and Netflix
+- [Temporal CLI: Temporalite](https://www.youtube.com/watch?v=-BJRQmNCi2I) - March 2023
 
 # Software Delivery
 - [Software Delivery at Datadog](https://www.youtube.com/watch?v=H67uuwVO1tc) (October 2020)
