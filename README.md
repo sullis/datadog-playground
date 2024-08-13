@@ -16,4 +16,5 @@
 # Open source
 - [temporal-worker-controller](https://github.com/DataDog/temporal-worker-controller)
 - [temporal-large-payload-codec](https://github.com/DataDog/temporal-large-payload-codec)
+- [temporalite](https://temporal.io/blog/temporalite-the-foundation-of-the-new-temporal-cli-experience)
 
