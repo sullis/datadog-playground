@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.sullis</groupId>
-  <artifactId>foobar-playground</artifactId>
+  <artifactId>datadog-playground</artifactId>
   <packaging>jar</packaging>
-  <name>foobar-playground</name>
+  <name>datadog-playground</name>
   <version>0.0.1-SNAPSHOT</version>
-  <description>foobar-playground</description>
+  <description>datadog-playground</description>
   <licenses>
     <license>
       <name>Apache License 2.0</name>
