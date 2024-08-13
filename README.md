@@ -7,4 +7,5 @@
 - [Temporal Large Payload Service at Datadog](https://www.youtube.com/watch?v=0BNEi2skUdg) - Grant Fuhr
 - [Operating Cassandra in Kubernetes with Temporal at Datadog](https://www.youtube.com/watch?v=_vnXUOfKNQ0)
 - [Temporal at Datadog](https://www.youtube.com/watch?v=LxgkAoTSI8Q) - Jacob LeGrone
-- 
+- [Running Temporal as an Internal Service](https://www.youtube.com/watch?v=jbw702SBhp4) - Datadog and Netflix
+
