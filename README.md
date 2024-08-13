@@ -11,3 +11,9 @@
 
 # Software Delivery
 - [Software Delivery at Datadog](https://www.youtube.com/watch?v=H67uuwVO1tc) (October 2020)
+
+
+# Open source
+- [temporal-worker-controller](https://github.com/DataDog/temporal-worker-controller)
+- [temporal-large-payload-codec](https://github.com/DataDog/temporal-large-payload-codec)
+
